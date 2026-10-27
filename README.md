@@ -55,10 +55,10 @@ I'm a **Computer Science** student at Centro Universitário Newton Paiva and an 
   <a href="mailto:drick.lomemo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/SEU_USER_AQUI" target="_blank">
+  <a href="https://instagram.com/mmoraex_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discordapp.com/users/SEU_ID_DO_DISCORD" target="_blank">
+  <a href="https://discordapp.com/users/lorranqtmct_97694" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
